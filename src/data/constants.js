@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/BittuKumar927",
   resume:
-    "https://drive.google.com/file/d/1FoQj6rK7IvUYGiDrUbCR_H31vPEXXoWM/view?usp=sharing",
+    "https://drive.google.com/file/d/13EWuy6gf7Ld2AQOjlU95mGZgBYRhrMnJ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bittu-kumar-258057235/",
   twitter: "https://x.com/StormShadow927",
   insta: "https://www.instagram.com/bittu_kumar_927/",
