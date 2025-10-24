@@ -150,15 +150,16 @@ export const experiences = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-a04b8.appspot.com/o/Screenshot%202024-08-08%20103246.png?alt=media&token=9a69c065-6428-47e5-b59f-50890ea3d757",
-    role: "Machine Learning Intern (Data Science)",
+    role: "Backend Engineer Intern (Node.js)",
     company: "TSILICON Design, Inc.",
     date: "May 2024 - July 2024",
-    desc: "Designed a CNN model that achieved 99% accuracy, outperforming built-in models in comparison tests.",
+    desc: "Developed the backend for Achievers Coaching Center’s web app, enabling students to view courses, test results, ranks, and fee receipts.",
     skills: [
-      "Python",
-      "Tensorflow",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-a04b8.appspot.com/o/My%20experience_page-0001.jpg?alt=media&token=13bea752-4210-4cb8-93d2-7deb31c22f96",
+    // doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-a04b8.appspot.com/o/My%20experience_page-0001.jpg?alt=media&token=13bea752-4210-4cb8-93d2-7deb31c22f96",
   },
 ];
 
